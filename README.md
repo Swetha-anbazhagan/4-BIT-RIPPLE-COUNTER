@@ -36,11 +36,11 @@ For different input combinations generate the timing diagram.
 ![Screenshot 2024-12-08 153011](https://github.com/user-attachments/assets/419218b9-fe5c-4706-9dd5-b6eaae954277)
 
 
-/* Program for 4 Bit Ripple Counter and verify its truth table in quartus using Verilog programming.
+ Program for 4 Bit Ripple Counter and verify its truth table in quartus using Verilog programming.
 
- Developed by: Prethivirajan.L
- RegisterNumber:24013553
-*/
+ Developed by:Swetha A
+ RegisterNumber:212224040343
+
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
 ![Screenshot 2024-12-08 153028](https://github.com/user-attachments/assets/2e366ee4-f484-4c6b-9c1e-c576f25e10ff)
