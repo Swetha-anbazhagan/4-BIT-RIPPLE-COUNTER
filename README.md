@@ -1,4 +1,4 @@
-![Screenshot 2024-12-08 153011](https://github.com/user-attachments/assets/515ed47f-910b-49f6-be9f-e2aff57cc9da)# 4-BIT-RIPPLE-COUNTER
+4-BIT-RIPPLE-COUNTER
 
 **AIM:**
 
