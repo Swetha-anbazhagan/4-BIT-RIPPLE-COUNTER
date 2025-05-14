@@ -39,6 +39,7 @@ For different input combinations generate the timing diagram.
  Program for 4 Bit Ripple Counter and verify its truth table in quartus using Verilog programming.
 
  Developed by:Swetha A
+ 
  RegisterNumber:212224040343
 
 
